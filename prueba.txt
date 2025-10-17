@@ -1,0 +1,5 @@
+¡Hola! ¿Cómo estás? Éste es un texto de prueba para verificar el cifrado César versión avanzada.
+Incluye números: 0 1 2 3 4 5 6 7 8 9.
+También símbolos: ! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~
+Y letras acentuadas: Á É Í Ó Ú Ü á é í ó ú ü ñ Ñ.
+Fin del mensaje.
